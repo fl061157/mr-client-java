@@ -1,0 +1,15 @@
+/target/
+.classpath
+.project
+/settings/
+*.iml
+.idea
+.idea/*
+.settings
+
+/logs/
+*.log
+cscope.files
+cscope.in.out
+cscope.out
+cscope.po.out
